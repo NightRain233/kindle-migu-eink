@@ -1,0 +1,4 @@
+# 按应用指定墨水屏刷新方式：每行 "包名 波形号"
+# 7=DU4（272 ms，4 级灰）  1=DU（177 ms，黑白）  257=AUTO（原厂）
+# KOReader 候选包会自己按场景指定，不要写进来
+com.tencent.weread.eink 7

@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+build/
+tools/build/
+eanab-launcher/build/
+wave-helper/build/
+koreader-ui/fonts/
+*.apk
+*.keystore
+*.jks
